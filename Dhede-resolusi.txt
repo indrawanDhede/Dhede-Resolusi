@@ -3,3 +3,5 @@ Dhede Resolusi
 -CSS Dasar
 -Javascript
 -PHP
+-Framework Vue
+-Framework PHP
