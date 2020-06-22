@@ -4,4 +4,4 @@ Dhede Resolusi
 -Javascript
 -PHP
 -Framework Vue
--Framework PHP
+-Laravel
